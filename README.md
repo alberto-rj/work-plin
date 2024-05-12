@@ -21,7 +21,6 @@ The challenge was to build a landing page for a coworking space.
 ### Requirements
 
 - The page should look as close as possible to the visual design.
-
 - The page should be responsive
 
 ### Screenshot
