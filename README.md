@@ -38,7 +38,7 @@ The challenge was to build a landing page for a coworking space.
 
 ### Links
 
-- [Live site](https://alberto-rj.github.io/testimonials-grid-section/)
+- [Live site](https://alberto-rj.github.io/work-plin/)
 
 ## My process
 
