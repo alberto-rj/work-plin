@@ -7,7 +7,7 @@ This is a solution to the [Work Plin - Landing Page challenge on DevChallenge](h
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Live site](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -35,9 +35,9 @@ The challenge was to build a landing page for a coworking space.
   <img alt="Desktop version screenshot" src="./screenshot/screenshot-desktop.png">
 </details>
 
-### Links
+### Live site
 
-- [Live site](https://alberto-rj.github.io/work-plin/)
+- [Preview](https://alberto-rj.github.io/work-plin/)
 
 ## My process
 
