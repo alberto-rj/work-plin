@@ -50,5 +50,5 @@ The challenge was to build a landing page for a coworking space.
 
 ## Author
 
-- GitHub - [Alberto Raúl José](https://www.github.com/alberto-rj)
+- GitHub - [@alberto-rj](https://www.github.com/alberto-rj)
 - Twitter - [@albertorauljose](https://www.twitter.com/albertorauljose)
